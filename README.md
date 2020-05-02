@@ -1,5 +1,0 @@
-# Python-for-Data-Science-and-AI
-
-## My first Python for the Coursera stuff
-
-* Hope you enjoy it
